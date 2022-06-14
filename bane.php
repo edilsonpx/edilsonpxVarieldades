@@ -1,0 +1,3 @@
+  <div style="background-image: url('<?php echo INCLUDE_PATH; ?>images/black.jpg');" class="banner-single"></div><!--banner-single-->
+   <div style="background-image: url('<?php echo INCLUDE_PATH;?>images/black.jpg');" class="banner-single"></div><!--banner-single-->
+    <div style="background-image: url('<?php echo INCLUDE_PATH;?>images/fone10.png');" class="banner-single"></div><!--banner-single-->
